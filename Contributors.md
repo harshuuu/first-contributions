@@ -1,5 +1,5 @@
 # Contributors
-
+- [HarshitaNaik](https://github.com/harshuuu)
 - [Eduardo Hernandez](https://github.com/EduardoGHdez)
 - [Podrig](https://github.com/PadraigLeoghain)
 Arnel Forbes
